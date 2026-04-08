@@ -30,3 +30,4 @@ Comandos :
 - git init
 - git add .
 - git commit -m "Mensagem"
+- git push
